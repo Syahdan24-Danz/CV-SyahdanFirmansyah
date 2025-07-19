@@ -1,8 +1,14 @@
-# Portfolio Saya
-# Proyek Saya
+<div style="display: grid; grid-template-columns: 1fr 1fr;">
+  <div>
+    <img src="/>
+  </div>
+  <div>
+    
+  </div>
+</div>
 
-# Proyek Saya
-# Proyek Saya
+
+
 
 <div style="display: flex; justify-content: space-between; padding: 10px;">
   <div style="flex: 1; padding: 10px;">
